@@ -1,4 +1,4 @@
-name: 'Run App SandeshSubedi'
+name: 'Run App '
 
 on: [push, pull_request]
 
